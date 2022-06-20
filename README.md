@@ -1,9 +1,9 @@
 
 
-![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/01/Types-of-Banners-to-Supercharge-Your-Online-Presence.png)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)
 <h1 align="center">Hi 👋, I'm Zohair Zaidi</h1>
 <h3 align="center">I would love to change the world, but they won’t give me the source code</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/media/f99b3f3de0180aed5eb3e4bd1dc95e1b.gif">
+
 
 - 🔭 I’m currently researching at the University of Toronto on **Implantable Neural Interface Chips for Closed-loop Neuromodulation**
 
