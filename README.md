@@ -3,7 +3,7 @@
 <h3 align="center">I would love to change the world, but they won’t give me the source code!</h3>
 
 
-- 🔭 I’m currently a sophomore studying Computer Engineering at the **University of Toronto**
+- 🔭 I’m currently a junior studying Computer Engineering at the **University of Toronto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
