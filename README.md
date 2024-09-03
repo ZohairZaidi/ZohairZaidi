@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Zohair Zaidi</h1>
-<h3 align="center">I would love to change the world, but they won’t give me the source code!</h3>
 
 
 - 🔭 I’m currently a junior studying Computer Engineering at the **University of Toronto**
